@@ -1,5 +1,5 @@
 # PDND-keygen
-Small Powershell script to generate RSA keys for PDND authentication
+Small Powershell script to generate RSA keys for PDND authentication (Windows only)
 
 ## Usage
 
@@ -12,6 +12,11 @@ writing RSA key
 ✔️ PRIV generated
 ✔️ Keys my-keys successfully generated in 1 sec
 ```
+
+## Requirements
+
+[OpenSSL 3.x](https://www.openssl.org/) required.
+
 
 ## License
 
